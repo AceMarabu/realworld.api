@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oXW93JpoPmN3qAbrzVb6h4VpHpnDXX4JooBOmU4s2q1PLLVreunQbKC3gE1TrkRFOh1iVkEQWixJ2YJKEJl+sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ztopc\\source\\repos\\realworld.api\\realworld.api\\realworld.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ztopc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
