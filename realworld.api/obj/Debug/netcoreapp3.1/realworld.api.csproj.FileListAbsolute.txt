@@ -1,9 +1,0 @@
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\obj\Debug\netcoreapp3.1\realworld.api.csprojAssemblyReference.cache
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\obj\Debug\netcoreapp3.1\realworld.api.AssemblyInfoInputs.cache
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\obj\Debug\netcoreapp3.1\realworld.api.AssemblyInfo.cs
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\obj\Debug\netcoreapp3.1\realworld.api.RazorTargetAssemblyInfo.cache
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\obj\Debug\netcoreapp3.1\staticwebassets\realworld.api.StaticWebAssets.Manifest.cache
-C:\Users\ztopc\source\repos\realworld.api\realworld.api\obj\Debug\netcoreapp3.1\staticwebassets\realworld.api.StaticWebAssets.xml
