@@ -26,6 +26,8 @@ namespace realworld.api
 		public void ConfigureServices(IServiceCollection services)
 		{
 			services.AddControllers();
+			// Register the Swagger generator, defining 1 or more Swagger documents
+			services.AddSwaggerGen();
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,6 +43,12 @@ namespace realworld.api
 			app.UseRouting();
 
 			app.UseAuthorization();
+			app.UseSwagger();
+			app.UseSwaggerUI(c =>
+			{
+				c.SwaggerEndpoint("/swagger/v1/swagger.json", "Real World Api V1");
+				c.RoutePrefix = string.Empty;
+			});
 
 			app.UseEndpoints(endpoints =>
 			{
